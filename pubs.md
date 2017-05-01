@@ -9,12 +9,15 @@ title: Publications
 
 ## 2017
 
-Rahman, Mumtahena, Shelley M. MacNeil, David F. Jenkins, Gajendra Shrestha, Sydney R. Wyatt, Jasmine A. McQuerry, Stephen R. Piccolo, et al. 2017. "Activity of Distinct Growth Factor Receptor Network Components in Breast Tumors Uncovers Two Biologically Relevant Subtypes." Genome Medicine 9 (1): 40. [10.1186/s13073-017-0429-x](http://dx.doi.org/10.1186/s13073-017-0429-x)
+Rahman, Mumtahena, Shelley M. MacNeil, __David F. Jenkins__, Gajendra Shrestha, Sydney R. Wyatt, Jasmine A. McQuerry, Stephen R. Piccolo, et al. 2017. "Activity of Distinct Growth Factor Receptor Network Components in Breast Tumors Uncovers Two Biologically Relevant Subtypes." Genome Medicine 9 (1): 40. [10.1186/s13073-017-0429-x](http://dx.doi.org/10.1186/s13073-017-0429-x)
 
 Ahdesmäki, Miika J., Brad A. Chapman, Pablo Cingolani, Oliver Hofmann, Aleksandr Sidoruk, Zhongwu Lai, Gennadii Zakharov, et al. 2017. "Prioritisation of Structural Variant Calls in Cancer Genomes." PeerJ 5 (April): e3166. [10.7717/peerj.3166](http://dx.doi.org/10.7717/peerj.3166)
 
-Kirkpatrick, Stacey L., Lisa R. Goldberg, Neema Yazdani, R. Keith Babbs, Jiayi Wu, Eric R. Reed, David F. Jenkins, et al. 2017. “Cytoplasmic FMR1-Interacting Protein 2 Is a Major Genetic Factor Underlying Binge Eating.” Biological Psychiatry 81 (9): 757–69. [10.1016/j.biopsych.2016.10.021](http://dx.doi.org/10.1016/j.biopsych.2016.10.021)
-
 ## 2016
 
-Shrestha, Gajendra, Shelley M. MacNeil, Jasmine A. McQuerry, David F. Jenkins, Sunil Sharma, and Andrea H. Bild. 2016. "The Value of Genomics in Dissecting the RAS-Network and in Guiding Therapeutics for RAS-Driven Cancers." Seminars in Cell & Developmental Biology 58 (October): 108–17. [10.1016/j.semcdb.2016.06.012](http://dx.doi.org/10.1016/j.semcdb.2016.06.012)
+Kirkpatrick, Stacey L., Lisa R. Goldberg, Neema Yazdani, R. Keith Babbs, Jiayi Wu, Eric R. Reed, __David F. Jenkins__, Amanda F. Bolgioni, Kelsey I. Landaverde, Kimberly P. Luttik, Karen S. Mitchell, Vivek Kumar, W. Evan Johnson, Megan K. Mulligan, Pietro Cottone, and Camron D. Bryant. 2017. __"Cytoplasmic FMR1-Interacting Protein 2 Is a Major Genetic Factor Underlying Binge Eating."__ _Biological Psychiatry_ 81 (9): 757–69. [10.1016/j.biopsych.2016.10.021](http://dx.doi.org/10.1016/j.biopsych.2016.10.021)
+
+
+
+
+Shrestha, Gajendra, Shelley M. MacNeil, Jasmine A. McQuerry, __David F. Jenkins__, Sunil Sharma, and Andrea H. Bild. 2016. "The Value of Genomics in Dissecting the RAS-Network and in Guiding Therapeutics for RAS-Driven Cancers." Seminars in Cell & Developmental Biology 58 (October): 108–17. [10.1016/j.semcdb.2016.06.012](http://dx.doi.org/10.1016/j.semcdb.2016.06.012)
