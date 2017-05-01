@@ -11,7 +11,7 @@ title: Publications
 
 Rahman, Mumtahena†, Shelley M. MacNeil†, __David F. Jenkins__†, Gajendra Shrestha, Sydney R. Wyatt, Jasmine A. McQuerry, Stephen R. Piccolo, Laura M. Heiser, Joe W. Gray, W. Evan Johnson and Andrea H. Bild. 2017. __"Activity of Distinct Growth Factor Receptor Network Components in Breast Tumors Uncovers Two Biologically Relevant Subtypes."__ _Genome Medicine_ 9 (1): 40. [10.1186/s13073-017-0429-x](http://dx.doi.org/10.1186/s13073-017-0429-x)
 
-Ahdesmäki, Miika J., Brad A. Chapman, Pablo Cingolani, Oliver Hofmann, Aleksandr Sidoruk, Zhongwu Lai, Gennadii Zakharov, Mikhail Rodichenko, Mikhail Alperovich, David Jenkins, T. Hedley Carr, Daniel Stetson, Brian Dougherty, J. Carl Barrett, and Justin H. Johnson. 2017. __"Prioritisation of Structural Variant Calls in Cancer Genomes."__ _PeerJ_ 5 (April): e3166. [10.7717/peerj.3166](http://dx.doi.org/10.7717/peerj.3166)
+Ahdesmäki, Miika J., Brad A. Chapman, Pablo Cingolani, Oliver Hofmann, Aleksandr Sidoruk, Zhongwu Lai, Gennadii Zakharov, Mikhail Rodichenko, Mikhail Alperovich, __David Jenkins__, T. Hedley Carr, Daniel Stetson, Brian Dougherty, J. Carl Barrett, and Justin H. Johnson. 2017. __"Prioritisation of Structural Variant Calls in Cancer Genomes."__ _PeerJ_ 5 (April): e3166. [10.7717/peerj.3166](http://dx.doi.org/10.7717/peerj.3166)
 
 ## 2016
 
