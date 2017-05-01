@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: David Jenkins
+subtitle: Ph.D Candidate / M.S. Bioinformatics, Boston University 2017 / Sc.B. Computational Biology, Brown University 2011
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I started my college career with a focus on Biology, but I took a [programming](http://cs.brown.edu/courses/cs015/) course and was hooked.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+After graduating from Brown University with a degree in Computational Biology in 2011 I worked in industry for a few years.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In 2014 I entered the Bioinformatics Program at Boston University.
