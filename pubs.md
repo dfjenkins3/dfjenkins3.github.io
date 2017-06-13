@@ -9,6 +9,8 @@ title: Publications
 
 ## 2017
 
+Goldberg, Lisa R., Stacey L. Kirkpatrick, Neema Yazdani, Kimberly P. Luttik, Olga A. Lacki, R. Keith Babbs, __David F. Jenkins__, W. Evan Johnson, and Camron D. Bryant. 2017. __“Casein Kinase 1-Epsilon Deletion Increases Mu Opioid Receptor-Dependent Behaviors and Binge Eating.”__ _Genes, Brain, and Behavior_, June. [10.1111/gbb.12397](http://dx.doi.org/10.1111/gbb.12397)
+
 Rahman, Mumtahena†, Shelley M. MacNeil†, __David F. Jenkins__†, Gajendra Shrestha, Sydney R. Wyatt, Jasmine A. McQuerry, Stephen R. Piccolo, Laura M. Heiser, Joe W. Gray, W. Evan Johnson and Andrea H. Bild. 2017. __"Activity of Distinct Growth Factor Receptor Network Components in Breast Tumors Uncovers Two Biologically Relevant Subtypes."__ _Genome Medicine_ 9 (1): 40. [10.1186/s13073-017-0429-x](http://dx.doi.org/10.1186/s13073-017-0429-x)
 
 † Contributed equally
