@@ -9,7 +9,7 @@ title: Publications
 
 ## 2017
 
-Brady, Samuel W., Jasmine A. McQuerry, Yi Qiao, Stephen R. Piccolo, Gajendra Shrestha, __David F. Jenkins__, Ryan M. Layer, et al. 2017. __"Combating Subclonal Evolution of Resistant Cancer Phenotypes."__ Nature Communications 8 (1): 883. [10.1038/s41467-017-01174-3](http://dx.doi.org/10.1038/s41467-017-01174-3)
+Brady, Samuel W., Jasmine A. McQuerry, Yi Qiao, Stephen R. Piccolo, Gajendra Shrestha, __David F. Jenkins__, Ryan M. Layer, et al. 2017. __"Combating Subclonal Evolution of Resistant Cancer Phenotypes."__ _Nature Communications_ 8 (1): 883. [10.1038/s41467-017-01174-3](http://dx.doi.org/10.1038/s41467-017-01174-3)
 
 Goldberg, Lisa R., Stacey L. Kirkpatrick, Neema Yazdani, Kimberly P. Luttik, Olga A. Lacki, R. Keith Babbs, __David F. Jenkins__, W. Evan Johnson, and Camron D. Bryant. 2017. __"Casein Kinase 1-Epsilon Deletion Increases Mu Opioid Receptor-Dependent Behaviors and Binge Eating."__ _Genes, Brain, and Behavior_, June. [10.1111/gbb.12397](http://dx.doi.org/10.1111/gbb.12397)
 
