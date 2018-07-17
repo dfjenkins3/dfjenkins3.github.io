@@ -7,6 +7,10 @@ title: Publications
 <a href="https://scholar.google.com/citations?user=evnOfCwAAAAJ" target="_blank">Google Scholar</a> / <a href="https://www.researchgate.net/profile/David_Jenkins12" target="_blank">ResearchGate</a> / <a href="https://orcid.org/0000-0002-7451-4288" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a> / <a href="https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/52299062/?sort=date&direction=ascending" target="_blank">NCBI</a>
 </div>
 
+## 2018
+
+Zhang, Yuqing, __David F. Jenkins__, Solaiappan Manimaran and W. Evan Johnson. 2018. __"Alternative empirical Bayes models for adjusting for batch effects in genomic studies."__ _BMC Bioinformatics_ 19:262. [10.1186/s12859-018-2263-6](https://doi.org/10.1186/s12859-018-2263-6)
+
 ## 2017
 
 Brady, Samuel W., Jasmine A. McQuerry, Yi Qiao, Stephen R. Piccolo, Gajendra Shrestha, __David F. Jenkins__, Ryan M. Layer, et al. 2017. __"Combating Subclonal Evolution of Resistant Cancer Phenotypes."__ _Nature Communications_ 8 (1): 883. [10.1038/s41467-017-01174-3](http://dx.doi.org/10.1038/s41467-017-01174-3)
