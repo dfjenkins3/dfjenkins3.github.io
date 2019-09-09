@@ -4,8 +4,12 @@ title: Publications
 ---
 
 <div align="center">
-<a href="https://scholar.google.com/citations?user=evnOfCwAAAAJ" target="_blank">Google Scholar</a> / <a href="https://www.researchgate.net/profile/David_Jenkins12" target="_blank">ResearchGate</a> / <a href="https://orcid.org/0000-0002-7451-4288" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a> / <a href="https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/52299062/?sort=date&direction=ascending" target="_blank">NCBI</a>
+<a href="https://scholar.google.com/citations?user=evnOfCwAAAAJ" target="_blank">Google Scholar</a> / <a href="https://www.researchgate.net/profile/David_Jenkins12" target="_blank">ResearchGate</a> / <a href="https://orcid.org/0000-0002-7451-4288" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a> / <a href="https://www.ncbi.nlm.nih.gov/myncbi/1HGnj75Yg69A7/bibliography/public/" target="_blank">NCBI</a>
 </div>
+
+## 2019
+
+Jasmine A. McQuerry, David F. Jenkins, Susan E. Yost, Yuqing Zhang, Daniel Schmolze, W. Evan Johnson, Yuan Yuan, and Andrea H. Bild. 2019. __"Pathway activity profiling of growth factor receptor network and stemness pathways differentiates metaplastic breast cancer histological subtypes."__ _BMC Cancer_ 19:881. [10.1186/s12885-019-6052-z](https://doi.org/10.1186/s12885-019-6052-z)
 
 ## 2018
 
