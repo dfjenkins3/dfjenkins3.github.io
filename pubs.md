@@ -13,6 +13,8 @@ W. Evan Johnson, Aubrey Odom, Chelsie Cintron, Mutharaj Muthaiah, Selby Knudsen,
 
 ## 2019
 
+Gerald J. Sun, __David F. Jenkins__, Pablo E. Cingolani, Jonathan R. Dry, Zhongwu Lai. 2019. __"Optimized data representation and convolutional neural network model for predicting tumor purity."__ _bioRxiv Preprint_. [10.1101/805135](https://doi.org/10.1101/805135)
+
 Jasmine A. McQuerry†, __David F. Jenkins__†, Susan E. Yost, Yuqing Zhang, Daniel Schmolze, W. Evan Johnson, Yuan Yuan, and Andrea H. Bild. 2019. __"Pathway activity profiling of growth factor receptor network and stemness pathways differentiates metaplastic breast cancer histological subtypes."__ _BMC Cancer_ 19:881. [10.1186/s12885-019-6052-z](https://doi.org/10.1186/s12885-019-6052-z)
 
 † Contributed equally
