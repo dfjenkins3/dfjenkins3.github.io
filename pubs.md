@@ -9,7 +9,9 @@ title: Publications
 
 ## 2021
 
-W. Evan Johnson, Aubrey Odom, Chelsie Cintron, Mutharaj Muthaiah, Selby Knudsen, Noyal Joseph, Senbagavalli Babu, Subitha Lakshminarayanan, __David F. Jenkins__, Yue Zhao, Ethel Nankya, C. Robert Horsburgh, Gautam Roy, Jerrold Ellner, Sonali Sarkar, Padmini Salgame ans Natasha S. Hochberg. 2021. __"Comparing tuberculosis gene signatures in malnourished individuals using the TBSignatureProfiler."__ _BMC Infectious Diseases_ 22;21(1):106. [10.1186/s12879-020-05598-z](https://doi.org/10.1186/s12879-020-05598-z)
+Xiaomeng Huang, Yi Qiao, Samuel W. Brady, Rachel E. Factor, Erinn Downs-Kelly, Andrew Farrell, Jasmine A. McQuerry, Gajendra Shrestha, __David Jenkins__, W. Evan Johnson, Adam L. Cohen, Andrea H. Bild & Gabor T. Marth. 2021. __"Novel temporal and spatial patterns of metastatic colonization from breast cancer rapid-autopsy tumor biopsies."__ _Genome Medicine_ 13:170. [10.1186/s13073-021-00989-6](https://doi.org/10.1186/s13073-021-00989-6)
+
+W. Evan Johnson, Aubrey Odom, Chelsie Cintron, Mutharaj Muthaiah, Selby Knudsen, Noyal Joseph, Senbagavalli Babu, Subitha Lakshminarayanan, __David F. Jenkins__, Yue Zhao, Ethel Nankya, C. Robert Horsburgh, Gautam Roy, Jerrold Ellner, Sonali Sarkar, Padmini Salgame and Natasha S. Hochberg. 2021. __"Comparing tuberculosis gene signatures in malnourished individuals using the TBSignatureProfiler."__ _BMC Infectious Diseases_ 22;21(1):106. [10.1186/s12879-020-05598-z](https://doi.org/10.1186/s12879-020-05598-z)
 
 ## 2019
 
