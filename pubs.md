@@ -7,6 +7,10 @@ title: Publications
 <a href="https://scholar.google.com/citations?user=evnOfCwAAAAJ" target="_blank">Google Scholar</a> / <a href="https://www.researchgate.net/profile/David_Jenkins12" target="_blank">ResearchGate</a> / <a href="https://orcid.org/0000-0002-7451-4288" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a> / <a href="https://www.ncbi.nlm.nih.gov/myncbi/1HGnj75Yg69A7/bibliography/public/" target="_blank">NCBI</a>
 </div>
 
+## 2023
+
+Mark Roschewski, Manish R. Patel, Patrick M. Reagan, Nakhle S. Saba, Graham P. Collins, Hendrik-Tobias Arkenau, Sven de Vos, Barret Nuttall, Melih Acar, Kathleen Burke, Rafael D. White, Maria Udriste, Shringi Sharma, Brian Dougherty, Daniel Stetson, __David Jenkins__, Andrew Mortlock, Alessandra Forcina, Veerendra Munugalavadla, & Ian Flinn. 2023. __"Phase 1 Study of Acalabrutinib Plus Danvatirsen (AZD9150) in Relapsed/Refractory Diffuse Large B-Cell Lymphoma Including Circulating Tumor DNA Biomarker Assessment."__ _Clinical Cancer Research_ [10.1158/1078-0432.CCR-22-2483](https://doi.org/10.1158/1078-0432.CCR-22-2483)
+
 ## 2021
 
 Xiaomeng Huang, Yi Qiao, Samuel W. Brady, Rachel E. Factor, Erinn Downs-Kelly, Andrew Farrell, Jasmine A. McQuerry, Gajendra Shrestha, __David Jenkins__, W. Evan Johnson, Adam L. Cohen, Andrea H. Bild & Gabor T. Marth. 2021. __"Novel temporal and spatial patterns of metastatic colonization from breast cancer rapid-autopsy tumor biopsies."__ _Genome Medicine_ 13:170. [10.1186/s13073-021-00989-6](https://doi.org/10.1186/s13073-021-00989-6)
@@ -24,6 +28,8 @@ Jasmine A. McQuerry†, __David F. Jenkins__†, Susan E. Yost, Yuqing Zhang, Da
 ## 2018
 
 Zhang, Yuqing, __David F. Jenkins__, Solaiappan Manimaran and W. Evan Johnson. 2018. __"Alternative empirical Bayes models for adjusting for batch effects in genomic studies."__ _BMC Bioinformatics_ 19:262. [10.1186/s12859-018-2263-6](https://doi.org/10.1186/s12859-018-2263-6)
+
+__David F. Jenkins__, Tyler Faits, Emma Briars, Sebastian Carrasco Pro, Steve Cunningham, Joshua D. Campbell, Masanao Yajima, & W. Evan Johnson. 2018. __"Interactive single cell RNA-Seq analysis with the Single Cell Toolkit (SCTK)."__ _bioRxiv Preprint_. [10.1101/329755](https://doi.org/10.1101/329755)
 
 ## 2017
 
