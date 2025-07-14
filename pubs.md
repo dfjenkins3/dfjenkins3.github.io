@@ -7,6 +7,14 @@ title: Publications
 <a href="https://scholar.google.com/citations?user=evnOfCwAAAAJ" target="_blank">Google Scholar</a> / <a href="https://www.researchgate.net/profile/David_Jenkins12" target="_blank">ResearchGate</a> / <a href="https://orcid.org/0000-0002-7451-4288" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a> / <a href="https://www.ncbi.nlm.nih.gov/myncbi/1HGnj75Yg69A7/bibliography/public/" target="_blank">NCBI</a>
 </div>
 
+## 2025
+
+Lisa R. Goldberg, Britahny M. Baskin, Jacob A. Beierle, Yahia Adla, Julia C. Kelliher, Emily J. Yao, Stacey L. Kirkpatrick, Eric R. Reed, __David Jenkins__, Jiayi Cox, et al. 2025. __"Atp1a2 and Kcnj9 Are Candidate Genes Underlying Sensitivity to Oxycodone-Induced Locomotor Activation and Withdrawal-Induced Anxiety-Like Behaviors in C57BL/6 Substrains."__ _Genes, Brain, and Behavior_ 24:e70009. [10.1111/gbb.70009](https://doi.org/10.1111/gbb.70009)
+
+## 2024
+
+Azadeh C. Bashi, Elizabeth A. Coker, Krishna C. Bulusu, Patricia Jaaks, Claire Crafter, Howard Lightfoot, Marta Milo, Katrina McCarten, __David F. Jenkins__, Dieudonne van der Meer, et al. 2024. __"Large-scale Pan-cancer Cell Line Screening Identifies Actionable and Effective Drug Combinations."__ _Cancer Discovery_ 14 (5): 846–865. [10.1158/2159-8290.CD-23-0388](https://doi.org/10.1158/2159-8290.CD-23-0388)
+
 ## 2023
 
 Mark Roschewski, Manish R. Patel, Patrick M. Reagan, Nakhle S. Saba, Graham P. Collins, Hendrik-Tobias Arkenau, Sven de Vos, Barret Nuttall, Melih Acar, Kathleen Burke, Rafael D. White, Maria Udriste, Shringi Sharma, Brian Dougherty, Daniel Stetson, __David Jenkins__, Andrew Mortlock, Alessandra Forcina, Veerendra Munugalavadla, & Ian Flinn. 2023. __"Phase 1 Study of Acalabrutinib Plus Danvatirsen (AZD9150) in Relapsed/Refractory Diffuse Large B-Cell Lymphoma Including Circulating Tumor DNA Biomarker Assessment."__ _Clinical Cancer Research_ [10.1158/1078-0432.CCR-22-2483](https://doi.org/10.1158/1078-0432.CCR-22-2483)
